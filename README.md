@@ -12,8 +12,12 @@ relative spacing between squares. The class determines the size of the squares b
     'fiber_speed'. The factor that translates the FBM-path coordinates to the rectangle
     coordinates (fbmToRec) is also set.
     
-![image](https://user-images.githubusercontent.com/45627032/226737121-d8a5b18b-1e5b-4c5e-ae40-d3b692db3920.png) ![image](https://user-images.githubusercontent.com/45627032/226737910-446cd064-e4a0-42ab-ade9-0dfcb15bebd4.png) ![image](https://user-images.githubusercontent.com/45627032/226738439-bf7eb846-abd0-4c32-9eff-6d578eeb431e.png)
 
+<img width="862" alt="Screenshot 2023-03-21 at 9 27 27 PM" src="https://user-images.githubusercontent.com/45627032/226802189-353a62ab-d94f-4394-a221-a191d733f140.png">
+
+<img width="862" alt="Screenshot 2023-03-21 at 9 28 11 PM" src="https://user-images.githubusercontent.com/45627032/226802297-04816a74-f86b-49f2-821a-3fb20694ab61.png">
+
+<img width="862" alt="Screenshot 2023-03-21 at 9 28 27 PM" src="https://user-images.githubusercontent.com/45627032/226802370-ce829bbe-f68c-49b8-bf6e-c8eb617cc611.png">
 
 
 
