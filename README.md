@@ -1,5 +1,8 @@
 # A highly customizable Fractional Brownian Motion Dropout algorithm inspired by brain's serotonergic system
 
+If any of the fiber points were inside a neuron (a geometric square), the output of that neuron was set to zero during this training cycle. None of the fibers interacted with one another (e.g., the same neuron could be contacted by more than one fiber). The proposed model is a simplification of biological reality, in which serotonergic fibers are linked to a cell body and may regenerate continually with new pathways from random interruption locations (i.e., they do not "crawl" as unattached segments). Yet, the general dynamic of the model approximates these biological processes, such as axon branching.
+
+
 This algorithm simulates Fractional Brownian Motion (FBM) agents on a rectangular plane with equal
 relative spacing between squares. The class determines the size of the squares based on
     the values of 'plane_size', 'grid_shape', and 'neuron_spacing'. It also adds a border
